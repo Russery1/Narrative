@@ -1,0 +1,2 @@
+# Narrative
+EMS Narrative generator
